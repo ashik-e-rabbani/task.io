@@ -1,0 +1,60 @@
+body
+{
+  font-family: Nova Round;
+  font-weight: 16px;
+}
+
+@media (min-width: 768px) {
+.navbar-brand.abs
+    {
+        position: absolute;
+        width: 100%;
+        left: 0;
+        text-align: center;
+    }
+}
+
+#logo{
+  height: 50px;
+  width: 50px;
+}
+.bg-custom{
+
+  background-color: 
+#2b2e3b ;
+
+.custom-item{
+
+  border: solid 0.5px white;
+  border-radius: 5px;
+  margin: 0px;
+  padding: 0px;
+}
+
+.custom-link{
+  padding: 0px;
+  margin: 0px;
+}
+
+.custom-bg{
+  background: #23384e;
+}
+
+.right.carousel-control, .left.carousel-control {
+    display: none;
+}
+
+/* for modal*/
+
+.card {
+  width: 300px;
+}
+
+.nav-item .nav-link[disabled]:hover {
+  
+}
+
+.row-pad{
+
+ 
+}
